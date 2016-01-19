@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CloudManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_criteria">CriteriaActivity</string>
+
+    <string name="criteriaName">Criteria Name</string>
+    <string name="criteriaContains">Contains</string>
+    <string name="criteriaExcludes">Excludes</string>
+    <string name="criteriaAutoRefresh">AutoRefresh</string>
+    <string name="criteriaAutoRefreshDuration">seconds</string>
+    <string name="submitCriteria">Create Criteria</string>
+</resources>
